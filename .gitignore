@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow only specific Python files
+!ai.py
+!dataset_augmentation.py
+!game.py
+!image_check.py
+!image_sort.py
+
+# Ensure .gitignore itself is included
+!.gitignore
