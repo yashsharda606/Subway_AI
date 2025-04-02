@@ -23,7 +23,7 @@ else:
 NUM_CATEGORIES = 5
 TEST_SIZE = 0.3
 
-PATH_TO_IMAGES = 'C:\\Users\\Aayush\\Downloads\\ML_Sem6\\subwAI-main\\images\\training\\'
+PATH_TO_IMAGES = 'images\\training\\'
 ACTIONS2IDX = {
     'left': 0,
     'right': 1,
