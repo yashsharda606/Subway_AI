@@ -23,13 +23,13 @@ PATH_TO_GAME = "C:\\Users\\Aayush\\Desktop\\Subway Surfers.lnk"
 
 GAME = {"top": 150, "left": 570, "width": 750, "height": 750}
 PAUSE = {"top": 10, "left": 15, "width": 60, "height": 60}
-PATH_TO_IMAGES = 'C:\\Users\\Aayush\\Downloads\\ML_Sem6\\subwAI-main\\images\\training\\'
+PATH_TO_IMAGES = 'images\\training\\'
 
 frame_width = 750
 frame_height = 750
 frame_rate = 12.0
 # VIDEO_PATH = "C:\\Users\\nikla\\PycharmProjects\\subwAI\\recordings\\"
-VIDEO_PATH = "C:\\Users\\Aayush\\Downloads\\ML_Sem6\\subwAI-main\\recordings"
+VIDEO_PATH = "recordings"
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 keyboard_controller = Controller()
 
