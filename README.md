@@ -4,7 +4,7 @@
 
 This project achieved a good prediction accuracy of 85% using a CNN architecture comprising convolutional layers, average pooling, dense layers, dropout, and an output layer. Data augmentation techniques, specifically horizontal mirroring, doubled the dataset size and further enhanced the robustness of the trained model. The resulting AI is capable of playing the game for extended periods (over a minute regularly) and effectively navigates common in-game obstacles. Interestingly, the AI's unconventional exploration led to the discovery of an unexpected in-game glitch!
 
-For a visual demonstration and further insights into the project, please refer to the [video on YouTube](YOUR_YOUTUBE_VIDEO_LINK_HERE).
+
 
 ## Description/Usage
 
