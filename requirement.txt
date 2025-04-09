@@ -1,0 +1,12 @@
+joblib
+numpy
+opencv-python
+Pillow
+pyautogui
+scikit-learn
+scikit-image
+mss
+keyboard
+tensorflow
+visualkeras
+pynput
